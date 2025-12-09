@@ -34,11 +34,17 @@ A base de dados utilizada no projeto é pública e foi obtida a partir da plataf
 3. Clique em "Click to browse" ou arraste o arquivo cr_loan2.csv
 4. Após o upload, o Databricks mostrará a opção de "Create Table"
 5. Na tela de criação de tabela:
+   
   - Data source: o arquivo que você acabou de enviar
+    
   - Table name: base_credito
+    
   - Database: default
+    
   - File type: CSV
+    
   - Marcar a opção "First row is header"
+    
 6. Clique em Create Table
 
 Isso criará a tabela: default.base_credito que é utilizada como camada Bronze no pipeline.
@@ -124,13 +130,13 @@ Após a execução do notebook 05-Dashboard clique em: View → Present e navegu
 
 ## Tecnologias Utilizadas
 
--Databricks Free Edition
--PySpark
--Pandas
--NumPy
--Scikit-learn
--Matplotlib
--MLflow (opcional)
+- Databricks Free Edition
+- PySpark
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- MLflow (opcional)
 
 ---
 
