@@ -142,10 +142,10 @@ Após a execução do notebook 05-Dashboard clique em: View → Present e navegu
 
 ## Observações Importantes
 
--Este projeto tem finalidade acadêmica
--A base de dados utilizada é pública
--O modelo não deve ser utilizado diretamente em produção sem ajustes adicionais
--O threshold de decisão pode ser calibrado conforme o apetite de risco
+- Este projeto tem finalidade acadêmica
+- A base de dados utilizada é pública
+- O modelo não deve ser utilizado diretamente em produção sem ajustes adicionais
+- O threshold de decisão pode ser calibrado conforme o apetite de risco
 
 ---
 
