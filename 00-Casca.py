@@ -9,6 +9,7 @@
 base_credito = "default.base_credito"
 base_outliers = "default.base_outliers"
 base_clean = "default.base_clean"
+base_modelo = "default.base_modelo"
 
 #Imports
 import pandas as pd
