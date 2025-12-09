@@ -34,6 +34,11 @@ pdf_clean = pd.get_dummies(
     drop_first = True
 )
 
+#Persistir a base final do modelo no catálogo de dados
+df_base_modelo = spark.createDataFrame(pdf_clean)
+df_base_modelo.write.format("delta").mode("overwrite").saveAsTable(base_modelo)
+
+#Separar variáveis independentes da variável dependente
 X = pdf_clean.drop(columns=[target])
 y = pdf_clean[target]
 
