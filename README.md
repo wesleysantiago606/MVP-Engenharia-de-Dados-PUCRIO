@@ -122,11 +122,6 @@ Após a execução do notebook 05-Dashboard clique em: View → Present e navegu
 
 ---
 
-## Autoavaliação
-Observando os resultados apresentados no relatório do MVP, posso concluir que o modelo conseguiu responder às perguntas per
-
----
-
 ## Tecnologias Utilizadas
 
 -Databricks Free Edition
