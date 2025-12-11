@@ -69,14 +69,14 @@ Via notebook (opcional): spark.table("default.base_credito").show(5)
 
 ## Como Executar o Projeto no Databricks
 
-### ✅ 1. Criar o ambiente
+### 1. Criar o ambiente
 
 1. Criar uma conta no **Databricks Free Edition**
 2. Criar um **cluster**
 3. Criar uma pasta no Workspace para o projeto (ex: `MVP_PD`)
 
 
-### ✅ 2. Importar os notebooks
+### 2. Importar os notebooks
 
 Para cada arquivo `.py` deste repositório:
 
