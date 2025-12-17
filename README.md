@@ -126,6 +126,8 @@ Após a execução do notebook 05-Dashboard clique em: View → Present e navegu
 -Curva KS
 -Importância das Variáveis
 
+##Importante
+##Para visualizar as saídas dos notebooks, basta observar o arquivo 0-Orquestrador_outputs.ipynb pois este é o notebook que executa todos os outros códigos
 ---
 
 ## Tecnologias Utilizadas
